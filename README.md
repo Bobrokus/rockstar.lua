@@ -1,2 +1,2 @@
-# rockstar.lua
-WIP - LuaRocks++ basically
+# `🛠 WIP` rockstar.lua 🤩✨
+Work in Progress **[LuaRocks](https://github.com/luarocks/luarocks) Wrapper and Version Manager**
